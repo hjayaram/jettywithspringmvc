@@ -1,0 +1,45 @@
+This sample contains a spring mvc app running in a jetty server
+Version details:
+	Spring: 3.0.3
+	Jetty: 7.6.11
+Required Jars:
+	jetty-7.6/lib/servlet-api-2.5.jar
+	jetty-7.6/lib/jetty-util-7.6.11.v20130520.jar
+	jetty-7.6/lib/jsp/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar
+	jetty-7.6/lib/jsp/javax.servlet.jsp-2.1.0.v201105211820.jar
+	jetty-7.6/lib/jetty-webapp-7.6.11.v20130520.jar
+	jetty-7.6/lib/jetty-server-7.6.11.v20130520.jar
+	jetty-7.6/lib/jetty-http-7.6.11.v20130520.jar
+	jetty-7.6/lib/jetty-servlet-7.6.11.v20130520.jar
+	jetty-7.6/lib/jetty-security-7.6.11.v20130520.jar
+	jetty-7.6/lib/jetty-io-7.6.11.v20130520.jar
+	jetty-7.6/lib/jetty-continuation-7.6.11.v20130520.jar
+	jetty-7.6/lib/jetty-xml-7.6.11.v20130520.jar
+	jetty-7.6/lib/jsp/org.apache.jasper.glassfish-2.1.0.v201110031002.jar
+	jetty-7.6/lib/jsp/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar
+	jetty-7.6/lib/jsp/javax.el-2.1.0.v201105211819.jar
+	spring-3.0.3.jar
+	spring-core-3.0.3.jar
+	spring-beans-3.0.3.jar
+	slf4j-api-1.6.1.jar
+	commons-collections-3.2.jar
+	commons-logging-1.0.4.jar
+	spring-context-3.0.3.jar
+	spring-web-3.0.3.jar
+	spring-asm-3.0.3.jar
+	spring-expression-3.0.3.jar
+	spring-web-servlet-3.0.3.jar
+	commons-el.jar
+	jasper-runtime.jar
+	jasper-compiler-jdt.jar
+	jasper-compiler.jar
+	validation-api-1.0.0.GA.jar
+
+IDE used:
+	Eclipse 3.4.2
+
+Am not promoting the .classpath being lazy removing the harcoded paths :)
+
+How to access:
+	http://localhost:8081/show
+	http://localhost:8081
